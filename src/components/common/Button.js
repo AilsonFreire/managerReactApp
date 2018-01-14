@@ -29,6 +29,6 @@ const styles = {
         borderColor: '#007aff',
         marginLeft: 5,
         marginRight: 5
-    }
-}
+    },
+};
 export { Button };
